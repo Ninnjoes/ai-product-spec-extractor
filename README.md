@@ -1,3 +1,4 @@
+**Live Demo:** https://ai-appuct-spec-extractor-vi6rt6iwmnjgmaqfv9bwtu.streamlit.app/
 # AI-Powered Product Spec Extractor & Market Analytics
 
 An end-to-end AI Data Engineering pipeline that transforms unstructured e-commerce product titles into structured specifications using **Google Gemini API** + **Pydantic** schema enforcement, exports formatted multi-sheet Excel reports, and visualizes insights via an interactive **Streamlit** dashboard.
